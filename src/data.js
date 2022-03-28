@@ -1,4 +1,4 @@
-export default [
+export default data = [
   {
     _id: "62415f2ea7c33ff3d5d7f69e",
     company: "GENEKOM",
