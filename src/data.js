@@ -1,4 +1,4 @@
-export default data = [
+const data = [
   {
     _id: "62415f2ea7c33ff3d5d7f69e",
     company: "GENEKOM",
@@ -250,3 +250,5 @@ export default data = [
     address: "423 Kosciusko Street, Swartzville, Marshall Islands, 9601",
   },
 ];
+
+export default data;
