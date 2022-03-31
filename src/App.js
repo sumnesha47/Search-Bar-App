@@ -80,7 +80,7 @@ const App = () => {
         {searchText !== "" && (
           <div className="data">
             {compniesData.map((company) => {
-              const { company_name, location } = company;
+              const { company_name } = company;
               return (
                 <div
                   onClick={() => handleClick(company)}
